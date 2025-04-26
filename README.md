@@ -38,9 +38,3 @@ Assurez-vous que Python est installé sur votre système. Vous pouvez le téléc
     pip install Pillow numpy
     ```
 
-## ▶️ Comment Exécuter
-
-Une fois les prérequis installés, exécutez simplement le script Python principal :
-
-```bash
-python votre_script_principal.py
