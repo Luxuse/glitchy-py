@@ -1,5 +1,5 @@
 # glitchy-py
-## REWORK IN RUST
+
 Une application de bureau simple développée en Python utilisant Tkinter et Pillow pour appliquer divers effets de "glitch" et de corruption de données sur des images.
 
 ## ✨ Fonctionnalités
